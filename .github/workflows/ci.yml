@@ -15,4 +15,4 @@ jobs:
         run: pip install flake8
   
       - name: Link with flake8
-        run: flake8 .
+        run: python3 -m flake8 -v main.py 
