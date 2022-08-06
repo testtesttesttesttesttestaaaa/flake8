@@ -1,5 +1,5 @@
-def hiiii(a):
-    print(f"hi {a}")
+def hi(name):
+    print(f"hi {name}")
 
 
-hiiii(input("Enter Your name"))
+hi(input("Enter Your name"))
