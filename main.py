@@ -1,5 +1,6 @@
-def hi(name):
+def hiiii(name):
+    """Thi Function Is For Saying Hello"""
     print(f"hi {name}")
 
 
-hi(input("Enter Your name"))
+hiiii(input("Enter Your Name"))
